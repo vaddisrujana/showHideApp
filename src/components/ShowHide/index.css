@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.background {
+  background-image: linear-gradient(to right, #fa7257, #fc63a7);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.head {
+  color: #ffffff;
+}
+.background1 {
+  display: flex;
+}
+.back {
+  margin-right: 30px;
+}
+.button {
+  padding: 10px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+.heading {
+  padding: 50px;
+  border-radius: 25px;
+}
+.head1 {
+}
